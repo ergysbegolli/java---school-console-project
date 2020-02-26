@@ -1,0 +1,7 @@
+Student: 01
+ID: 2
+Name: berti
+Surname: sanijes
+Date of birth: 1912-12-02
+Total points: 0
+--------------------

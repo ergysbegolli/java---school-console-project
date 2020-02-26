@@ -1,0 +1,16 @@
+Student: 1
+ID: 3
+Name: alek
+Surname: abazi
+Date of birth: 1911-11-11
+Total points: 0
+Times taken test: 0
+--------------------
+Student: 2
+ID: 2
+Name: ergys
+Surname: begolli
+Date of birth: 1999-12-12
+Total points: 0
+Times taken test: 0
+--------------------
